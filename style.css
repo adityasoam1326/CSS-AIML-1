@@ -1,0 +1,14 @@
+/* element selector  */
+p{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+
+.p{  
+    color: brown;
+    background-color: black;
+}
+#jk{
+    font-size: larger;
+}
